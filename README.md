@@ -5,8 +5,6 @@
 ![C++](https://img.shields.io/badge/C++-17-blue?style=flat&logo=cplusplus&logoColor=white)
 ![License](https://img.shields.io/github/license/adityakamath/sts_hardware_interface?label=License)
 
-TODO - add pre-commit config
-
 ## Overview
 
 Omnidirectional mobile robot platform, based upon the LeKiwi 3 wheel omnidirectional mobile robot base.
